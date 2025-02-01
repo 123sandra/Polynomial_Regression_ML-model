@@ -12,5 +12,5 @@ Created a dataset with Temperature and it's corresponding pressure and compared 
 10. Predicting with new value
 11. Repeated all the task with newly added dataset for predicting the Salary based of position levels.
 # Conclusion
-while assigning degree of polynomial i firstly assigned 3 but the prediction was not accurate and the R2 Score was low thus i changed to 5 there by i could increase my R2 score and there is very minute difference between actual and predicted values. <br>
+While assigning degree of polynomial i firstly assigned 3 but the prediction was not accurate and the R2 Score was low thus i changed to 5 there by i could increase my R2 score and there is very minute difference between actual and predicted values. <br>
 New R2 Score is __99.9%__.
